@@ -1,0 +1,22 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  border: solid black 2px;
+  background-color: azure;
+  height: 100%;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.list-group-item {
+  word-wrap: break-word;
+}
+
+.form-inline .form-control {
+  width: 100% !important;
+}
